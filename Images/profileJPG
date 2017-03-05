@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Xavier Valencia's Homepage</title>
+    <style> body {
+                        background-color: Silver;
+                    }
+    </style>
+  </head>
+  <body>
+    <h1><b>
+        Programmer's Profile:</b></h1>
+    		<p><a href="index.html">Home</a>
+        <a href="portfolio.html">Portfolio</a>
+        <a href="books.html">Home</a>
+        <a href="programmer.html">Programmer Profile</a></p>
+    <img src="" alt="Profile Pic"width="175px" height="175px"/>
+    
+    <h3><b>About the programmer</b></h3>
+    <ul>
+      <li>Name:
+        <ul>
+          <li>Xavier Valencia</li>
+        </ul></li>
+      <li>Hobbies:
+        <ul>
+          <li>Playing with dogs</li>
+          <li>Going on social media</li>
+          <li>Talking to friends</li>
+          <li>Coding</li>
+          <li>Wallowing in self pity</li>
+        </ul></li>
+      <li>Why program?:
+        <ul>
+          <li>Learn how to create websites</li>
+          <li>Secure a job in the cyber industry</li>
+          <li>Be apart of CyberPatriot</li>
+        </ul></li>
+      <li>Articles about Xavier:
+        <ul>
+          <li><a href="http://www.thedowneypatriot.com/the-downey-patriot-5/aspire-students-bring-home-awards>Aspire</a></li>
+        </ul></li>
+    </ul>
+  </body>
+</html>
